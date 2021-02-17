@@ -13,6 +13,6 @@ The objective of this project is to implement the Hangman game using Python. It 
 **time module** : This module is used to import the actual time from pc to use in the program. *time.sleep()* is used to halt the execution of the program for a few seconds. 
                    It is a fun way to put the user of the game in short suspense.
 
-In this game, there is a list of Colors (words) present, out of which our interpreter will choose one random color. The user first has to input their name and then, 
+In this game, there is a *list of Colors* (words) present, out of which our interpreter will choose one random color. The user first has to input their name and then, 
 will be asked to guess any alphabet. If the random color contains that alphabet, it will be shown as the output(with correct placement) else the program will ask user 
 to guess another alphabet. User will be given 10 turns to guess the complete color. with this Hangman game, I have successfully developed my first python project.
